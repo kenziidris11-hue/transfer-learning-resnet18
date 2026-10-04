@@ -1,0 +1,14 @@
+
+# Dataset gambar tidak diunggah
+dataset/
+dataset_raw/*
+!dataset_raw/metadata.csv
+
+# Model hasil training tidak diunggah
+results/*.pth
+
+# File sementara Python
+__pycache__/
+*.pyc
+.venv/
+venv/
